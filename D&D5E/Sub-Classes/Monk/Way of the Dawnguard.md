@@ -16,7 +16,7 @@ You are taught sacred blessings by your order. If a Sacred Blessing calls for a 
 > As an action, you allow the warmth of the Dawnfather's light to flow into the wounds of a creature. Expend any number of Ki points, up to your proficiency bonus. A creature you touch regains 1d8 hit points for each Ki you expended.
 
 >### *11: Dawnfather's Judgment*
-> As a bonus action, you bless your whip with the might of Ulir. Your next successful attack against a creature deals an additional 4d6 radiant damage. The creature must then succeed on a Constitution saving throw or be blinded until the end of its next turn.
+> As a bonus action, you bless your whip with the might of Ulir. Your next successful attack against a creature deals an additional 6d6 radiant damage. The creature must then succeed on a Constitution saving throw or be blinded until the end of its next turn.
  
 >### *17: Morning Flare*
 > As an action, you speak the rites of Ulir and release a flare of the Dawnfather's light above your head. Creatures of your choice that you can see within 30 feet must succeed on a Constitution saving throw or be blinded for the next minute. A creature blinded by this effect takes 2d6 fire and 2d6 radiant damage at the start of its turn. It can repeat the saving throw at the end of each of its turns to end the effect.
