@@ -1,8 +1,10 @@
 # **Way of the Dawnguard** (Monk)
 Monks of the Way of the Dawnguard are servants of Ulir, the Dawnfather. They are ordained to hunt creatures of the night that prey on the innocent and use the Dawnfather's Light to incinerate them.
 
-## 3: Flog the Wicked
+## 3: Dawnguard Initiate
 You become proficient in the weapon of your order, the [Whip](https://www.dndbeyond.com/equipment/whip), and it counts as a monk weapon for you.
+
+Additionally, you have advantage on Wisdom (Survival) checks to track fiends, monstrocities, and undead.
 
 ## 3: Sacred Blessings
 You are taught sacred blessings by your order. If a Sacred Blessing calls for a saving throw, use your Ki Save DC. After use, a Sacred Blessing becomes unuseable until you complete a short or long rest.
