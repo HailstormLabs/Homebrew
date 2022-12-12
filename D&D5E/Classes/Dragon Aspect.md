@@ -4,7 +4,7 @@ Description Here
 # Quick Build
 You can make a Dragon Aspect quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution or Dexterity. Second, choose the [Folk Hero](https://www.dndbeyond.com/backgrounds/folk-hero) background. Third, choose a cantrip that deals your Essence damage type and either [Druidcraft](https://www.dndbeyond.com/spells/druidcraft) or [Presidigitation](https://www.dndbeyond.com/spells/prestidigitation), along with the 1st-level spell [Absorb Elements](https://www.dndbeyond.com/spells/absorb-elements).
 
-># The Dragon Aspect Table
+# The Dragon Aspect Table
 >| Level | PB | Class Features | Aspect Size | Breath Die | Cantrips | Spells | Spell Slots | Slot Level |
 >|-------|----|----------------|-------------|------------|----------|--------|-------------|------------|
 >|1|2|Draconic Magic, Essence|Medium|-|4|1|2|1|
