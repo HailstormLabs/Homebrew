@@ -90,17 +90,17 @@ Charisma is your spellcasting ability for your Dragon Aspect spells, so you use 
 You can use an arcane focus (see the [Adventuring Gear](https://www.dndbeyond.com/compendium/rules/basic-rules/equipment#ArcaneFocus) section) as a spellcasting focus for your Dragon Aspect spells.
 
 ## Essence
-You pick an Essence from Autumn, Spring, Summer, Winter, or Time. Along with suggesting some personality traits, your Essense determines the color of your dragon form, the color of your luminescent eyes in humanoid form, your Essence damage type, and various other features you will gain as you level up as a Dragon Aspect. 
+You pick an Essence from Autumn, Spring, Summer, Winter, or Time. Along with suggesting some personality traits, your Essense determines the color of your dragon scales, the color of your luminescent eyes in humanoid form, your Essence damage type, and various other features you will gain as you level up as a Dragon Aspect. 
 
 As part of selecting your Essence, your creature type changes to *Dragon (Shapeshifter)*.
 
-> |Essence|Positive Trait|Negative Trait|Color|Damage|
-> |-------|--------------|--------------|-----|------|
-> |Autumn|Helpful|Naive|Topaz|Acid|
-> |Spring|Energetic|Indulgent|Emerald|Lightning|
-> |Summer|Strong|Overwhelming|Ruby|Fire|
-> |Winter|Stalwart|Apathetic|Sapphire|Cold|
-> |Time|Wise|Nihilistic|Opal|Necrotic|
+|Essence|Positive Trait|Negative Trait|Scales|Eyes|Damage|
+|-------|--------------|--------------|-----|-----|------|
+|Autumn|Helpful|Naive|Topaz|Yellow|Acid|
+|Spring|Energetic|Indulgent|Emerald|Green|Lightning|
+|Summer|Strong|Overwhelming|Ruby|Red|Fire|
+|Winter|Resilient|Apathetic|Sapphire|Blue|Cold|
+|Time|Wise|Nihilistic|Opal|Iridescent|Necrotic|
 
 > ## Autumn
 >
