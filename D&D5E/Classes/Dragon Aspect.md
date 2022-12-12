@@ -111,7 +111,7 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >
 >> ### 1: Aura of Breeze
 >> You exude a 10 foot aura that grant you and your allies immunity to effects that would reduce your speed. The aura increases to 20 feet at 11th level and again to 30 feet at 20th level.
->>
+>
 >> ### 6: Helping Hand
 >> You can stabilize an unconscious creature as a bonus action and your healing spells gain a bonus to their healing equal to your proficiency bonus.
 > 
