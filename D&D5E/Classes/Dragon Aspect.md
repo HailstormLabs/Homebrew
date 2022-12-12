@@ -96,15 +96,15 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 
 > |Essence|Positive Trait|Negative Trait|Color|Damage|
 > |-------|--------------|--------------|-----|------|
-> |Autumn|Helpful|Naive|Orange|Acid|
-> |Spring|Energetic|Indulgent|Green|Lightning|
-> |Summer|Strong|Overwhelming|Red|Fire|
-> |Winter|Stalwart|Apathetic|White|Cold|
-> |Time|Intelligent|Nihilistic|Bronze|Necrotic|
+> |Autumn|Helpful|Naive|Topaz|Acid|
+> |Spring|Energetic|Indulgent|Emerald|Lightning|
+> |Summer|Strong|Overwhelming|Ruby|Fire|
+> |Winter|Stalwart|Apathetic|Sapphire|Cold|
+> |Time|Wise|Nihilistic|Opal|Necrotic|
 
 > ## Autumn
 >
->> ### 1: Autumn Whelpling
+>> ### 1: Topaz Whelpling
 >> You become resistant to acid damage and you can add your proficiency bonus to the damage of any spell you cast that deals acid damage. 
 >>
 >> Additionally, if you are hit by a melee attack and the attacker is within 10 feet, the attacker takes acid damage equal to your proficiency bonus.
@@ -123,7 +123,7 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 
 > ## Spring
 >
->> ### 1: Spring Whelpling
+>> ### 1: Emerald Whelpling
 >> You become resistant to lightning damage and you can add your proficiency bonus to the damage of any spell you cast that deals lightning damage. 
 >> 
 >> Additionally, if you are hit by a melee attack and the attacker is within 10 feet, the attacker takes lightning damage equal to your proficiency bonus.
@@ -142,7 +142,7 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 
 > ## Summer
 >
->> ### 1: Summer Whelpling
+>> ### 1: Ruby Whelpling
 >> You become resistant to fire damage and you can add your proficiency bonus to the damage of any spell you cast that deals fire damage. 
 >>
 >> Additionally, if you are hit by a melee attack and the attacker is within 10 feet, the attacker takes acid damage equal to your proficiency bonus.
@@ -161,7 +161,7 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 
 > ## Winter
 >
->> ### 1: Winter Whelpling
+>> ### 1: Sapphire Whelpling
 >> You become resistant to cold damage and you can add your proficiency bonus to the damage of any spell you cast that deals cold damage. 
 >>
 >> Additionally, if you are hit by a melee attack and the attacker is within 10 feet, the attacker takes cold damage equal to your proficiency bonus.
@@ -182,7 +182,7 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 
 > ## Time
 >
->> ### 1: Time Whelpling
+>> ### 1: Opal Whelpling
 >> You become resistant to necrotic damage and you can add your proficiency bonus to the damage of any spell you cast that deals necrotic damage. 
 >>
 >> Additionally, if you are hit by a melee attack and the attacker is within 10 feet, the attacker takes necrotic damage equal to your proficiency bonus.
