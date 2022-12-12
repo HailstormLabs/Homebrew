@@ -38,6 +38,8 @@ You can make a Dragon Aspect quickly by following these suggestions. First, Char
 
 **Hit Points At Higher Levels**: 1d8 (or 5) + your Constitution modifier per Dragon Aspect level after 1st
 
+---
+
 ## Proficiencies
 
 **Armor**: Light Armor, Medium Armor
@@ -50,6 +52,8 @@ You can make a Dragon Aspect quickly by following these suggestions. First, Char
 
 **Skills**: Choose two from *Arcana*, *Deception*, *History*, *Insight*, *Intimidation*, *Nature*, *Performance*, *Persuasion*, and *Survival*
 
+---
+
 ## Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -58,8 +62,12 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) leather armor or (b) scale mail
 - an explorer's pack, a dagger, and an arcane focus
 
+---
+
 ## Multiclassing
 The Dragon Aspect class is not eligible for multiclassing.
+
+---
 
 ## Draconic Magic
 Your bear the gift of a powerful dragon. This gift, whatever its origin, fuels your spells. See [Spells Rules](https://www.dndbeyond.com/compendium/rules/basic-rules/spellcasting) for the general rules of spellcasting and the [Spells Listing](https://www.dndbeyond.com/spells?filter-class=3&filter-class=6&filter-search=&filter-verbal=&filter-somatic=&filter-material=&filter-concentration=&filter-ritual=&filter-sub-class=) for your spell list. You can learn spells from the Druid and Sorcerer spell lists.
@@ -89,6 +97,8 @@ Charisma is your spellcasting ability for your Dragon Aspect spells, so you use 
 ### *Spellcasting Focus*
 You can use an arcane focus (see the [Adventuring Gear](https://www.dndbeyond.com/compendium/rules/basic-rules/equipment#ArcaneFocus) section) as a spellcasting focus for your Dragon Aspect spells.
 
+---
+
 ## Essence
 You pick an Essence from Autumn, Spring, Summer, Winter, or Time. Along with suggesting some personality traits, your Essense determines the color of your dragon scales, the color of your luminescent eyes in humanoid form, your Essence damage type, and various other features you will gain as you level up as a Dragon Aspect. 
 
@@ -101,6 +111,8 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 |Summer|Strong|Overwhelming|Ruby|Red|Fire|
 |Winter|Resilient|Apathetic|Sapphire|Blue|Cold|
 |Time|Wise|Nihilistic|Opal|Iridescent|Necrotic|
+
+---
 
 > ## Autumn
 >
@@ -121,6 +133,8 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >> ### 14: Repulsion Breath
 >> You can now use your Dragon Breath to knock your foes back. Each creature hit by your Dragon Breath must succeed on a Strength saving throw against your spell save DC or be pushed a number of feet equal to ten times your proficiency bonus.
 
+---
+
 > ## Spring
 >
 >> ### 1: Emerald Whelpling
@@ -140,6 +154,8 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >> ### 14: Sleep Breath
 >> You can now use your Dragon Breath to put your foes to sleep. Each creature hit by your Dragon Breath must succeed on a Constitution saving throw against your spell save DC or or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 
+---
+
 > ## Summer
 >
 >> ### 1: Ruby Whelpling
@@ -158,6 +174,8 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >
 >> ### 14: Weakening Breath
 >> You can now use your Dragon Breath to weaken your foes instead of dealing damage. Each creature hit by your Dragon Breath must succeed on a Strength saving throw against your spell save DC or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for a minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+---
 
 > ## Winter
 >
@@ -179,6 +197,8 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >
 >> ### 14: Paralyzing Breath
 >> You can now use your Dragon Breath to weaken your foes. Each creature hit by your breath must succeed on a Constitution saving throw against your spell save DC or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+---
 
 > ## Time
 >
@@ -203,6 +223,8 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >> ### 14: Slowing Breath
 >> You can now use your Dragon Breath to knock your foes back. Each creature hit by your Dragon Breath must succeed on a Constitution saving throws against your spell save DC or be slowed. A slowed creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 
+---
+
 ## Aspect Transformation
 You learn to control your magical shapeshifting ability enabling you to shift in to your dragon form and back to your humanoid form at will as a bonus action. You automatically revert to your humanoid form if you fall unconscious, drop to 0 hit points, or die. While in your dragon form the following rules apply:
 
@@ -211,6 +233,8 @@ You learn to control your magical shapeshifting ability enabling you to shift in
 - You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so.
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 - You gain access to the natural weapons of a dragon: bite, claws, and tail. You use your Charisma modifier instead of Strength to determine your attack and damage rolls with them.
+
+---
 
 ## Aspect Transformation Improvements
 Your Aspect Transformation trait and ability improvements are listed below along with their levels and statistical changes.
@@ -245,6 +269,8 @@ Your Aspect Transformation trait and ability improvements are listed below along
 > ## Senses
 > At 5th level, you gain 1200 feet of darkvision. If you already have darkvision from another source, increase it by 60 feet. Your sense continue to hone themselves as you gain 30 feet of blindsight at 9th level.
 
+---
+
 ## Dragon Breath
 You learn to use one of the most noteable draconc abilities, Dragon Breath. As an action, you release a breath of primal energy in a cone or line pattern. Each creature in the area must making a Dexterity saving throw against your spell save DC. On a success, the creature takes a number of dice of damage equal to your proficiency bonus. On a failure, the creature takes half as much. The damage type of your Dragon Breath is your Essence damage type, and the size of the damage dice can be seen in the Breath Die column of the Dragon Aspect table.
 
@@ -260,19 +286,29 @@ Once you use this ability, you can't use it again until it recharges. At the sta
 
 You can increase the damage of your Dragon Breath by expending a spell slot as part of the same action. You increase the number of damage dice for Dragon Breath by the level of the spell slot expended.
 
+---
+
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
 Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.
 
+---
+
 ## Innate Magic
 The natural magic running through your veins seeps into everything you do. You can add your Charisma modifier to the damage rolls of your cantrips, and your natural weapon attacks during Aspect Transformation count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+---
 
 ## Elemental Potency
 Your spells and abilities that deal your Essence damage type ignore resistance and treat immunity as resistance.
 
+---
+
 ## Draconic Immunity
 You become immune to your Essence damage type.
+
+---
 
 ## Force of Nature
 Your primal power reaches its peak making you a devastating enemy or a prized ally. You gain the following bonuses:
@@ -283,3 +319,4 @@ Your primal power reaches its peak making you a devastating enemy or a prized al
 - Whenever you are subjected to damage of your Essence type, you regains a number of hit points equal to the damage dealt.
 - Once per long rest, if you fail a saving throw, you can choose to succeed instead.
 
+---
