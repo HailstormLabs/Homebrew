@@ -239,7 +239,7 @@ Your Aspect Transformation trait and ability improvements are listed below along
 > At 5th level, you can make two attacks instead of one when you take the Attack action while in dragon form. Your attacks with natural weapons gain a +1 bonus to attack and damage rolls at 9th level, and the bonus increases further to +2 at 13th level, and +3 at 17th level.
 
 > ## Flying
-> At 5th level, you gain a flying speed of 30 feet while in dragon form. This speed increases at later levels to 60 feet at 9th level, 90 feet at 13th level, and 120 feet at 17th level.
+> At 5th level, you gain a flying speed of 30 feet while in dragon form. This speed increases to 60 feet at 9th level, 90 feet at 13th level, and 120 feet at 17th level.
 
 > ## Senses
 > At 5th level, you gain 1200 feet of darkvision. If you already have darkvision from another source, increase it by 60 feet. Your sense continue to hone themselves as you gain 30 feet of blindsight at 9th level.
