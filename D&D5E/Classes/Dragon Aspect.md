@@ -217,9 +217,6 @@ You learn to control your magical shapeshifting ability enabling you to shift in
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 - You gain access to the natural weapons of a dragon: bite, claws, and tail. You use your Charisma modifier instead of Strength to determine your attack and damage rolls with them.
 
-## Aspect Transformation Improvements
-Your Aspect Transformation trait and ability improvements are listed below along with their levels and statistical changes.
-
 > ## Bite
 > Your bite deals 1d10 piercing damage and has a range of 5 feet.
 >
@@ -235,11 +232,8 @@ Your Aspect Transformation trait and ability improvements are listed below along
 >
 > The damage of your tail increases to 2d8 at 11th level. The range of your tail increases to 15 feet at 11th level and 20 feet at 17th level.
 
-> ## Wing Attack
-> Starting at 13th level, as an action, you beat your wings fervently. Each creature within 10 feet of the you must succeed on a Dexterity saving throw against your spell save DC or 2d8 bludgeoning damage and be knocked prone.
-
-> ## Frightful Presense
-> Starting at 17th level, as an action, you release an thunderous roar. Each creature of the your choice that is within 120 feet of you and aware of your presence must succeed on a Wisdom saving throw against your spell save DC or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the your Frightful Presence for the next 24 hours.
+## Aspect Transformation Improvements
+Your Aspect Transformation trait and ability improvements are listed below along with their levels and statistical changes.
 
 > ## Combat Improvements
 > At 5th level, you can make two attacks instead of one when you take the Attack action while in dragon form. Your attacks with natural weapons gain a +1 bonus to attack and damage rolls at 9th level, and the bonus increases further to +2 at 13th level, and +3 at 17th level.
@@ -249,6 +243,12 @@ Your Aspect Transformation trait and ability improvements are listed below along
 
 > ## Senses
 > At 5th level, you gain 1200 feet of darkvision. If you already have darkvision from another source, increase it by 60 feet. Your sense continue to hone themselves as you gain 30 feet of blindsight at 9th level.
+
+> ## Wing Attack
+> Starting at 13th level, as an action, you beat your wings fervently. Each creature within 10 feet of the you must succeed on a Dexterity saving throw against your spell save DC or 2d8 bludgeoning damage and be knocked prone.
+
+> ## Frightful Presense
+> Starting at 17th level, as an action, you release an thunderous roar. Each creature of the your choice that is within 120 feet of you and aware of your presence must succeed on a Wisdom saving throw against your spell save DC or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the your Frightful Presence for the next 24 hours.
 
 ## Dragon Breath
 You learn to use one of the most noteable draconc abilities, Dragon Breath. As an action, you release a breath of primal energy in a cone or line pattern. Each creature in the area must making a Dexterity saving throw against your spell save DC. On a success, the creature takes a number of dice of damage equal to your proficiency bonus. On a failure, the creature takes half as much. The damage type of your Dragon Breath is your Essence damage type, and the size of the damage dice can be seen in the Breath Die column of the Dragon Aspect table.
