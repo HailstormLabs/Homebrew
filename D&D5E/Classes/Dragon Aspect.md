@@ -58,9 +58,6 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) leather armor or (b) scale mail
 - an explorer's pack, a dagger, and an arcane focus
 
-## Multiclassing
-The Dragon Aspect class is not eligible for multiclassing.
-
 ## Draconic Magic
 Your bear the gift of a powerful dragon. This gift, whatever its origin, fuels your spells. See [Spells Rules](https://www.dndbeyond.com/compendium/rules/basic-rules/spellcasting) for the general rules of spellcasting and the [Spells Listing](https://www.dndbeyond.com/spells?filter-class=3&filter-class=6&filter-search=&filter-verbal=&filter-somatic=&filter-material=&filter-concentration=&filter-ritual=&filter-sub-class=) for your spell list. You can learn spells from the Druid and Sorcerer spell lists.
 
