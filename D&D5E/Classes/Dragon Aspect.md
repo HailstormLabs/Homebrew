@@ -279,3 +279,4 @@ Your primal power reaches its peak making you a devastating enemy or a prized al
 - The length of your Dragon Breath patterns are doubled.
 - Whenever you are subjected to damage of your Essence type, you regains a number of hit points equal to the damage dealt.
 - Once per long rest, if you fail a saving throw, you can choose to succeed instead.
+- Once per long rest, you can cast the Control Weather spell without expending a spell slot or material components.
