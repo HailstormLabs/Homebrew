@@ -7,8 +7,8 @@ You can make a Dragon Aspect quickly by following these suggestions. First, Char
 # The Dragon Aspect Table
 >| Level | PB | Class Features | Aspect Size | Breath Die | Cantrips | Spells | Spell Slots | Slot Level |
 >|-------|----|----------------|-------------|------------|----------|--------|-------------|------------|
->|1|2|Draconic Magic, Essence|Medium|-|4|1|2|1|
->|2|2|Aspect Transformation|Medium|-|4|2|2|1|
+>|1|2|Draconic Magic, Unarmored Defense|Medium|-|4|1|2|1|
+>|2|2|Aspect Transformation, Essence|Medium|-|4|2|2|1|
 >|3|2|Dragon Breath|Medium|d8|4|3|2|2|
 >|4|2|Ability Score Improvement|Medium|d8|4|4|2|2|
 >|5|3|Transformation Improvement|Large|d8|5|5|3|3|
@@ -40,7 +40,7 @@ You can make a Dragon Aspect quickly by following these suggestions. First, Char
 
 ## Proficiencies
 
-**Armor**: Light Armor, Medium Armor
+**Armor**: None
 
 **Weapons**: Simple Weapons
 
@@ -85,6 +85,9 @@ Charisma is your spellcasting ability for your Dragon Aspect spells, so you use 
 
 ### *Spellcasting Focus*
 You can use an arcane focus (see the [Adventuring Gear](https://www.dndbeyond.com/compendium/rules/basic-rules/equipment#ArcaneFocus) section) as a spellcasting focus for your Dragon Aspect spells.
+
+## Unarmored Defense
+While you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Charisma modifier.
 
 ## Essence
 You pick an Essence from Autumn, Spring, Summer, Winter, or Time. Along with suggesting some personality traits, your Essense determines the color of your dragon scales, the color of your luminescent eyes in humanoid form, your Essence damage type, and various other features you will gain as you level up as a Dragon Aspect. 
@@ -211,7 +214,7 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 ## Aspect Transformation
 You learn to control your magical shapeshifting ability enabling you to shift in to your dragon form and back to your humanoid form at will as a bonus action. You automatically revert to your humanoid form if you fall unconscious, drop to 0 hit points, or die. While in your dragon form the following rules apply:
 
-- Your size changes based on the Aspect Size column of the Dragon Aspect table and your AC is equal to 10 + your Charisma modifier + your proficiency bonus, but the rest of your game statistics and personality traits remain the same.
+- Your size changes based on the Aspect Size column of the Dragon Aspect table, but the rest of your game statistics and personality traits remain the same.
 - You can't cast spells, but can still use spell slots in conjunction with your Dragon Breath feature. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as Call Lightning, that you’ve already cast.
 - You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so.
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
