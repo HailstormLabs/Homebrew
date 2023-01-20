@@ -248,7 +248,7 @@ Your Aspect Transformation trait and ability improvements are listed below along
 > At 5th level, you gain 120 feet of darkvision. If you already have darkvision from another source, increase it by 60 feet. Your senses continue to hone themselves as you gain 30 feet of blindsight at 9th level.
 
 > ## Wing Attack
-> Starting at 13th level, as an action, you beat your wings fervently. Each creature within 10 feet of the you must succeed on a Dexterity saving throw against your spell save DC or 2d8 bludgeoning damage and be knocked prone.
+> Starting at 13th level, as an action, you beat your wings fervently. Each creature within 10 feet of the you must succeed on a Dexterity saving throw against your spell save DC or take 2d8 bludgeoning damage and be knocked prone.
 
 > ## Frightful Presense
 > Starting at 17th level, as an action, you release an thunderous roar. Each creature of the your choice that is within 120 feet of you and aware of your presence must succeed on a Wisdom saving throw against your spell save DC or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the your Frightful Presence for the next 24 hours.
