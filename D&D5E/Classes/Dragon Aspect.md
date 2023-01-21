@@ -107,7 +107,7 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >> ### 1: Topaz Whelpling
 >> You become resistant to acid damage and you can add your proficiency bonus to the damage of any spell you cast that deals acid damage. 
 >>
->> Additionally, if you are hit by a melee attack and the attacker is within 10 feet, the attacker takes acid damage equal to your proficiency bonus.
+>> Additionally, if you are hit by a melee attack and the attacker is within 5 feet, the attacker takes acid damage equal to your proficiency bonus.
 >
 >> ### 1: Aura of Breeze
 >> You exude a 10 foot aura that grant you and your allies immunity to effects that would reduce your speed. The aura increases to 20 feet at 11th level and again to 30 feet at 20th level.
@@ -128,7 +128,7 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >> ### 1: Emerald Whelpling
 >> You become resistant to lightning damage and you can add your proficiency bonus to the damage of any spell you cast that deals lightning damage. 
 >> 
->> Additionally, if you are hit by a melee attack and the attacker is within 10 feet, the attacker takes lightning damage equal to your proficiency bonus.
+>> Additionally, if you are hit by a melee attack and the attacker is within 5 feet, the attacker takes lightning damage equal to your proficiency bonus.
 >
 >> ### 1: Aura of Energy
 >> You exude a 10 foot aura that grant you and your allies immunity to effects that would put you to sleep. The aura increases to 20 feet at 11th level and again to 30 feet at 20th level.
@@ -149,7 +149,7 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >> ### 1: Ruby Whelpling
 >> You become resistant to fire damage and you can add your proficiency bonus to the damage of any spell you cast that deals fire damage. 
 >>
->> Additionally, if you are hit by a melee attack and the attacker is within 10 feet, the attacker takes acid damage equal to your proficiency bonus.
+>> Additionally, if you are hit by a melee attack and the attacker is within 5 feet, the attacker takes acid damage equal to your proficiency bonus.
 >
 >> ### 1: Aura of Warmth
 >> You exude a 10 foot aura that grant you and your allies immunity to the effects of extreme cold. The aura increases to 20 feet at 11th level and again to 30 feet at 20th level.
@@ -170,7 +170,7 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >> ### 1: Sapphire Whelpling
 >> You become resistant to cold damage and you can add your proficiency bonus to the damage of any spell you cast that deals cold damage. 
 >>
->> Additionally, if you are hit by a melee attack and the attacker is within 10 feet, the attacker takes cold damage equal to your proficiency bonus.
+>> Additionally, if you are hit by a melee attack and the attacker is within 5 feet, the attacker takes cold damage equal to your proficiency bonus.
 >
 >> ### 1: Aura of Cold
 >> You exude a 10 foot aura that grant you and your allies immunity to the effects of extreme heat. The aura increases to 20 feet at 11th level and again to 30 feet at 20th level.
@@ -191,7 +191,7 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >> ### 1: Opal Whelpling
 >> You become resistant to necrotic damage and you can add your proficiency bonus to the damage of any spell you cast that deals necrotic damage. 
 >>
->> Additionally, if you are hit by a melee attack and the attacker is within 10 feet, the attacker takes necrotic damage equal to your proficiency bonus.
+>> Additionally, if you are hit by a melee attack and the attacker is within 5 feet, the attacker takes necrotic damage equal to your proficiency bonus.
 >
 >> ### 1: Aura of Awareness
 >> You exude a 10 foot aura that grant you and your allies immunity to being surprised. The aura increases to 20 feet at 11th level and again to 30 feet at 20th level.
