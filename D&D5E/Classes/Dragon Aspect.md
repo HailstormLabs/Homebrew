@@ -177,8 +177,6 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >
 >> ### 6: Frigid Soul
 >> As an action, you can freeze a 5-foot cube of water that you touch. Over the course of 10 minutes you can shape and work an area of ice equal to five times your proficiency bonus.
->>
->> Additionally, your hit point maximum increases by 6, and it increases by 1 every time you gain a Dragon Aspect level.
 > 
 >> ### 10: Personality Surge
 >> When you make an Nature or Survival check, you can choose to do so at advantage. You can use this ability a number of times equal to your proficiency bonus. You regain all uses when you complete a short or long rest.
@@ -199,8 +197,6 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >> You exude a 10 foot aura that grant you and your allies immunity to being surprised. The aura increases to 20 feet at 11th level and again to 30 feet at 20th level.
 >
 >> ### 6: Preternatural Foresight
->> You can add your Charisma modifier to initiative rolls and you gain a single portent die. 
->>
 >> When you finish a long rest, roll a d20 and record the number rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
 >>
 >> Your portent roll can only be used once. When you finish a long rest, you lose any unused portent rolls.
