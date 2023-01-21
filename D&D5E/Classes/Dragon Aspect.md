@@ -134,7 +134,7 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >> You exude a 10 foot aura that grant you and your allies immunity to effects that would put you to sleep. The aura increases to 20 feet at 11th level and again to 30 feet at 20th level.
 >
 >> ### 6: Unveiling Light
->> As an action, you can produce bioluminecent light from your body. You shed bright light in a 20-foot radius and dim light for an additional 20 feet. Invisible creatures and objects are revealed when in this light.
+>> As an action, you can produce bioluminecent light from your body. You shed bright light in a 10-foot radius and dim light for an additional 10 feet. Invisible creatures and objects are revealed when in this light.
 > 
 >> ### 10: Personality Surge
 >> When you make an Acrobatics or Performance check, you can choose to do so at advantage. You can use this ability a number of times equal to your proficiency bonus. You regain all uses when you complete a short or long rest.
