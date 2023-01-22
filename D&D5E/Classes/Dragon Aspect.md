@@ -7,8 +7,8 @@ You can make a Dragon Aspect quickly by following these suggestions. First, Char
 # The Dragon Aspect Table
 >| Level | PB | Class Features | Aspect Size | Breath Die | Cantrips | Spells | Spell Slots | Slot Level |
 >|-------|----|----------------|-------------|------------|----------|--------|-------------|------------|
->|1|2|Draconic Magic, Unarmored Defense|Medium|-|4|1|2|1|
->|2|2|Aspect Transformation, Essence|Medium|-|4|2|2|1|
+>|1|2|Draconic Magic, Essence|Medium|-|4|1|2|1|
+>|2|2|Aspect Transformation|Medium|-|4|2|2|1|
 >|3|2|Dragon Breath|Medium|d8|4|3|2|2|
 >|4|2|Ability Score Improvement|Medium|d8|4|4|2|2|
 >|5|3|Transformation Improvement|Large|d8|5|5|3|3|
@@ -40,7 +40,7 @@ You can make a Dragon Aspect quickly by following these suggestions. First, Char
 
 ## Proficiencies
 
-**Armor**: None
+**Armor**: Light Armor, Medium Armor
 
 **Weapons**: Simple Weapons
 
@@ -85,9 +85,6 @@ Charisma is your spellcasting ability for your Dragon Aspect spells, so you use 
 
 ### *Spellcasting Focus*
 You can use an arcane focus (see the [Adventuring Gear](https://www.dndbeyond.com/compendium/rules/basic-rules/equipment#ArcaneFocus) section) as a spellcasting focus for your Dragon Aspect spells.
-
-## Unarmored Defense
-While you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Charisma modifier.
 
 ## Essence
 You pick an Essence from Autumn, Spring, Summer, Winter, or Time. Along with suggesting some personality traits, your Essense determines the color of your dragon scales, the color of your luminescent eyes in humanoid form, your Essence damage type, and various other features you will gain as you level up as a Dragon Aspect. 
