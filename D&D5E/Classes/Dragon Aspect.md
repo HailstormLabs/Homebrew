@@ -228,6 +228,13 @@ You learn to control your magical shapeshifting ability enabling you to shift in
 >
 > The damage of your tail increases to 2d8 at 11th level. The range of your tail increases to 15 feet at 11th level and 20 feet at 17th level.
 
+## Dragon Breath
+You learn to use one of the most noteable draconc abilities, Dragon Breath. As an action, you release a breath of primal energy in a cone with a length in feet equal to ten times your proficiency bonus, and half as far in humanoid form. Each creature in the area must making a Dexterity saving throw against your spell save DC. On a success, the creature takes a number of dice of damage equal to your proficiency bonus. On a failure, the creature takes half as much. The damage type of your Dragon Breath is your Essence damage type, and the size of the damage dice can be seen in the Breath Die column of the Dragon Aspect table.
+
+Once you use this ability, you can't use it again until it recharges. At the start of your turn, roll a D6. On a roll of 5 or 6, your Dragon Breath recharges. At 20th level, your Dragon Breath recharges on a roll of 4 or higher.
+
+You can increase the damage of your Dragon Breath by expending a spell slot as part of the same action. You increase the number of damage dice for Dragon Breath by one plus the level of the spell slot expended.
+
 ## Aspect Transformation Improvements
 Your Aspect Transformation trait and ability improvements are listed below along with their levels and statistical changes.
 
@@ -247,13 +254,6 @@ Your Aspect Transformation trait and ability improvements are listed below along
 
 > ## Frightful Presense
 > Starting at 17th level, as an action, you release an thunderous roar. Each creature of the your choice that is within 120 feet of you and aware of your presence must succeed on a Wisdom saving throw against your spell save DC or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the your Frightful Presence for the next 24 hours.
-
-## Dragon Breath
-You learn to use one of the most noteable draconc abilities, Dragon Breath. As an action, you release a breath of primal energy in a cone with a length in feet equal to ten times your proficiency bonus, and half as far in humanoid form. Each creature in the area must making a Dexterity saving throw against your spell save DC. On a success, the creature takes a number of dice of damage equal to your proficiency bonus. On a failure, the creature takes half as much. The damage type of your Dragon Breath is your Essence damage type, and the size of the damage dice can be seen in the Breath Die column of the Dragon Aspect table.
-
-Once you use this ability, you can't use it again until it recharges. At the start of your turn, roll a D6. On a roll of 5 or 6, your Dragon Breath recharges. At 20th level, your Dragon Breath recharges on a roll of 4 or higher.
-
-You can increase the damage of your Dragon Breath by expending a spell slot as part of the same action. You increase the number of damage dice for Dragon Breath by one plus the level of the spell slot expended.
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
