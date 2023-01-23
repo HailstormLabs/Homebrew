@@ -122,7 +122,7 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 
 > ## Spring
 >
->> ### 1: Sapphire Whelpling
+>> ### 1: Emerald Whelpling
 >> You become resistant to lightning damage and you can add your proficiency bonus to the damage of any spell you cast that deals lightning damage. 
 >> 
 >> Additionally, if you are hit by a melee attack and the attacker is within 5 feet, the attacker takes lightning damage equal to your proficiency bonus.
