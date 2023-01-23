@@ -40,7 +40,7 @@ You can make a Dragon Aspect quickly by following these suggestions. First, Char
 
 ## Proficiencies
 
-**Armor**: Light Armor, Medium Armor
+**Armor**: Light Armor, Medium Armor, Shields
 
 **Weapons**: Simple Weapons
 
