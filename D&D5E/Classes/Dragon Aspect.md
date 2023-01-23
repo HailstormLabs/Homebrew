@@ -122,7 +122,7 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 
 > ## Spring
 >
->> ### 1: Emerald Whelpling
+>> ### 1: Sapphire Whelpling
 >> You become resistant to lightning damage and you can add your proficiency bonus to the damage of any spell you cast that deals lightning damage. 
 >> 
 >> Additionally, if you are hit by a melee attack and the attacker is within 5 feet, the attacker takes lightning damage equal to your proficiency bonus.
@@ -136,8 +136,8 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >> ### 10: Personality Surge
 >> When you make an Acrobatics or Performance check, you can choose to do so at advantage. You can use this ability a number of times equal to your proficiency bonus. You regain all uses when you complete a short or long rest.
 >
->> ### 14: Sleep Breath
->> You can now use your Dragon Breath to put your foes to sleep. Each creature hit by your Dragon Breath must succeed on a Constitution saving throw against your spell save DC or or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+>> ### 14: Stunning Breath
+>> You can now use your Dragon Breath to put your foes to sleep. Each creature hit by your Dragon Breath must succeed on a Constitution saving throw against your spell save DC or be stunned for a minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ---
 
