@@ -207,7 +207,7 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 ## Aspect Transformation
 You learn to control your magical shapeshifting ability enabling you to shift in to your dragon form and back to your humanoid form at will as a bonus action. You automatically revert to your humanoid form if you fall unconscious, drop to 0 hit points, or die. While in your dragon form the following rules apply:
 
-- Your size changes based on the Aspect Size column of the Dragon Aspect table and your AC becomes 10 + your Charisma modifier + your proficiency bonus, but the rest of your game statistics and personality traits remain the same.
+- Your size changes based on the Aspect Size column of the Dragon Aspect table, your AC becomes 10 + your Charisma modifier + your proficiency bonus, you become immune to your Essence damage type, but the rest of your game statistics and personality traits remain the same.
 - You can't cast spells, but can still use spell slots in conjunction with your Dragon Breath feature. Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as Call Lightning, that you’ve already cast.
 - You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so.
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
@@ -239,12 +239,12 @@ You can increase the damage of your Dragon Breath by expending a spell slot as p
 Your Aspect Transformation trait and ability improvements are listed below along with their levels and statistical changes.
 
 > ## Combat Improvements
-> At 5th level, you can make two attacks instead of one when you take the Attack action while in dragon form. 
+> At 5th level, you can make two attacks instead of one when you take the Attack action during Aspect Transformation. 
 >
 > Your attacks with natural weapons gain a +1 bonus to attack and damage rolls at 5th level, and the bonus increases further to +2 at 11th level, and +3 at 17th level.
 
 > ## Flying
-> At 5th level, you gain a flying speed of 30 feet while in dragon form. This speed increases to 60 feet at 9th level, 90 feet at 13th level, and 120 feet at 17th level.
+> At 5th level, you gain a flying speed of 30 feet during Aspect Transformation. This speed increases to 60 feet at 9th level, 90 feet at 13th level, and 120 feet at 17th level.
 
 > ## Senses
 > At 5th level, you gain 120 feet of darkvision. If you already have darkvision from another source, increase it by 60 feet. Your senses continue to hone themselves as you gain 30 feet of blindsight at 9th level.
@@ -266,8 +266,8 @@ The natural magic running through your veins seeps into everything you do. You c
 ## Elemental Potency
 Your spells and abilities that deal your Essence damage type ignore resistance and treat immunity as resistance.
 
-## Draconic Immunity
-You become immune to your Essence damage type.
+## Environmental Control
+You can cast the Control Weather spell once without using a spell slot. You regain the use of this ability after you complete a short or long rest.
 
 ## Force of Nature
 Your primal power reaches its peak making you a devastating enemy or a prized ally. You gain the following bonuses:
@@ -275,6 +275,5 @@ Your primal power reaches its peak making you a devastating enemy or a prized al
 - You have advantage on saving throws against Draconic Breath from other dragons.
 - You gain 20 temporary hit points at the start of your each of your turns.
 - The length of your Dragon Breath patterns are doubled.
-- Whenever you are subjected to damage of your Essence type, you regains a number of hit points equal to the damage dealt.
+- You become immune to your Esseence damage type in humanoid form and regains a number of hit points equal to the damage dealt during Aspect Transformation.
 - Once per long rest, if you fail a saving throw, you can choose to succeed instead.
-- You can cast the Control Weather spell at will.
