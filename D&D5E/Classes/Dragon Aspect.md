@@ -91,13 +91,13 @@ You pick an Essence from Autumn, Spring, Summer, Winter, or Time. Along with sug
 
 As part of selecting your Essence, your creature type changes to *Dragon (Shapeshifter)* and you learn to speak, read, and write Draconic.
 
-|Essence|Positive Trait|Negative Trait|Scales|Eyes|Damage|
-|-------|--------------|--------------|-----|-----|------|
-|Autumn|Helpful|Naive|Topaz|Yellow|Acid|
-|Spring|Energetic|Indulgent|Emerald|Green|Lightning|
-|Summer|Strong|Overwhelming|Ruby|Red|Fire|
-|Winter|Resilient|Apathetic|Sapphire|Blue|Cold|
-|Time|Wise|Nihilistic|Opal|Iridescent|Necrotic|
+|Essence|Positive Trait|Negative Trait|Scales|Eyes|Damage|Breath Shape|
+|-------|--------------|--------------|-----|-----|------|------------|
+|Autumn|Helpful|Naive|Topaz|Yellow|Acid|Line|
+|Spring|Energetic|Indulgent|Emerald|Green|Lightning|Line|
+|Summer|Strong|Overwhelming|Ruby|Red|Fire|Cone|
+|Winter|Resilient|Apathetic|Sapphire|Blue|Cold|Cone|
+|Time|Wise|Nihilistic|Opal|Iridescent|Necrotic|Cone|
 
 > ## Autumn
 >
@@ -229,11 +229,17 @@ You learn to control your magical shapeshifting ability enabling you to shift in
 > The damage of your tail increases to 2d8 at 11th level. The range of your tail increases to 15 feet at 11th level and 20 feet at 17th level.
 
 ## Dragon Breath
-You learn to use one of the most noteable draconc abilities, Dragon Breath. As an action, you release a breath of primal energy in a cone with a length in feet equal to ten times your proficiency bonus, and half as far in humanoid form. Each creature in the area must making a Dexterity saving throw against your spell save DC. On a success, the creature takes a number of dice of damage equal to your proficiency bonus. On a failure, the creature takes half as much. The damage type of your Dragon Breath is your Essence damage type, and the size of the damage dice can be seen in the Breath Die column of the Dragon Aspect table.
+You learn to use one of the most noteable draconc abilities, Dragon Breath. As an action, you release a breath of primal energy in the shape listed in the Essence table. Each creature in the area must making a Dexterity saving throw against your spell save DC. On a success, the creature takes a number of dice of damage equal to your proficiency bonus. On a failure, the creature takes half as much. The damage type of your Dragon Breath is your Essence damage type, and the size of the damage dice can be seen in the Breath Die column of the Dragon Aspect table.
 
 Once you use this ability, you can't use it again until it recharges. At the start of your turn, roll a D6. On a roll of 5 or 6, your Dragon Breath recharges. At 20th level, your Dragon Breath recharges on a roll of 4 or higher.
 
 You can increase the damage of your Dragon Breath by expending a spell slot as part of the same action. You increase the number of damage dice for Dragon Breath by one plus the level of the spell slot expended.
+
+> ## Cone
+> Your breath, as a cone, has a length in feet equal to 10 times your proficiency bonus, and half as far in humanoid form.
+
+> ## Line
+> You breath, as a line, has a length in feet equal to 20 times your proficiency bonus, and a width in feet equal to 5 times half your proficiency bonus (rounded down). The length is halved in humanoid form.
 
 ## Aspect Transformation Improvements
 Your Aspect Transformation trait and ability improvements are listed below along with their levels and statistical changes.
