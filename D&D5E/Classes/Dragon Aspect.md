@@ -2,7 +2,7 @@
 Description Here
 
 # Quick Build
-You can make a Dragon Aspect quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution or Dexterity. Second, choose the [Folk Hero](https://www.dndbeyond.com/backgrounds/folk-hero) background. Third, choose a cantrip that deals your Essence damage type and either [Druidcraft](https://www.dndbeyond.com/spells/druidcraft) or [Presidigitation](https://www.dndbeyond.com/spells/prestidigitation), along with the 1st-level spell [Absorb Elements](https://www.dndbeyond.com/spells/absorb-elements).
+You can make a Dragon Aspect quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution or Dexterity. Second, choose the [Folk Hero](http://dnd5e.wikidot.com/background:folk-hero) background. Third, choose a cantrip that deals your Essence damage type and either [Druidcraft](http://dnd5e.wikidot.com/spell:druidcraft) or [Presidigitation](http://dnd5e.wikidot.com/spell:prestidigitation), along with the 1st-level spell [Absorb Elements](http://dnd5e.wikidot.com/spell:absorb-elements).
 
 # The Dragon Aspect Table
 >| Level | PB | Class Features | Aspect Size | Breath Die | Cantrips | Spells | Spell Slots | Slot Level |
@@ -273,7 +273,7 @@ The natural magic running through your veins seeps into everything you do. You c
 Your spells and abilities that deal your Essence damage type ignore resistance and treat immunity as resistance.
 
 ## Environmental Control
-You can cast the Control Weather spell once without using a spell slot. You regain the use of this ability after you complete a short or long rest.
+You can cast the [Control Weather](http://dnd5e.wikidot.com/spell:control-weather) spell once without using a spell slot. You regain the use of this ability after you complete a short or long rest.
 
 ## Force of Nature
 Your primal power reaches its peak making you a devastating enemy or a prized ally. You gain the following bonuses:
