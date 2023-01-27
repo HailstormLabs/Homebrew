@@ -279,7 +279,7 @@ You can cast the [Control Weather](http://dnd5e.wikidot.com/spell:control-weathe
 Your primal power reaches its peak making you a devastating enemy or a prized ally. You gain the following bonuses:
 - You can cast spells during Aspect Transformation.
 - You have advantage on saving throws against Draconic Breath from other dragons.
-- You gain 20 temporary hit points at the start of your each of your turns.
+- You regain 20 hit points at the start of your each of your turns.
 - The length of your Dragon Breath patterns are doubled.
 - You become immune to your Esseence damage type in humanoid form and regains a number of hit points equal to the damage dealt during Aspect Transformation.
 - Once per long rest, if you fail a saving throw, you can choose to succeed instead.
