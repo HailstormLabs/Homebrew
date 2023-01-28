@@ -183,7 +183,7 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >> ### 1: Malignant Spatter
 >> If you are hit by a melee attack and the attacker is within 5 feet, the attacker takes necrotic damage equal to your proficiency bonus.
 >
->> ### 6: Gift of Time
+>> ### 6: Pause
 >> You learn the [Spare the Dying](http://dnd5e.wikidot.com/spell:spare-the-dying) cantrip, but can use it as a bonus action with a range of 30 feet.
 > 
 >> ### 10: Personality Surge
