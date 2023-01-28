@@ -146,7 +146,7 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >> ### 1: Ruby Whelpling
 >> You become resistant to fire damage and you can add your proficiency bonus to the damage of any spell you cast that deals fire damage. 
 >>
->> Additionally, if you are hit by a melee attack and the attacker is within 5 feet, the attacker takes acid damage equal to your proficiency bonus.
+>> Additionally, if you are hit by a melee attack and the attacker is within 5 feet, the attacker takes fire damage equal to your proficiency bonus.
 >
 >> ### 1: Aura of Warmth
 >> You exude a 10 foot aura that grant you and your allies immunity to the effects of extreme cold. The aura increases to 20 feet at 11th level and again to 30 feet at 20th level.
