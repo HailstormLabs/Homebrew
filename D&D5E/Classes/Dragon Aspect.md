@@ -127,7 +127,7 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >> If you are hit by a melee attack and the attacker is within 5 feet, the attacker takes lightning damage equal to your proficiency bonus.
 >
 >> ### 6: Energetic Lash
->> You learn the [Lightning Lure](http://dnd5e.wikidot.com/spell:lightning-lure) cantrip, but the range is increased to 30 feet and the target has disadvantage on the Strength saving throw.
+>> You learn the [Lightning Lure](http://dnd5e.wikidot.com/spell:lightning-lure) cantrip, but the target has disadvantage on the Strength saving throw.
 > 
 >> ### 10: Personality Surge
 >> When you make an Acrobatics or Performance check, you can choose to do so at advantage. You can use this ability a number of times equal to your proficiency bonus. You regain all uses when you complete a short or long rest.
