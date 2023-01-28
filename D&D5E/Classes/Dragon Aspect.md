@@ -91,24 +91,24 @@ You pick an Essence from Autumn, Spring, Summer, Winter, or Time. Along with sug
 
 As part of selecting your Essence, your creature type changes to *Dragon (Shapeshifter)* and you learn to speak, read, and write Draconic.
 
-|Essence|Positive Trait|Negative Trait|Scales|Eyes|Damage|Breath Shape|
-|-------|--------------|--------------|-----|-----|------|------------|
-|Autumn|Helpful|Naive|Topaz|Yellow|Acid|Line|
-|Spring|Energetic|Indulgent|Emerald|Green|Lightning|Line|
-|Summer|Strong|Overwhelming|Ruby|Red|Fire|Cone|
-|Winter|Resilient|Apathetic|Sapphire|Blue|Cold|Cone|
-|Time|Wise|Nihilistic|Opal|Iridescent|Necrotic|Cone|
+|Essence|Positive Trait|Negative Trait|Scales|Eyes|Damage|
+|-------|--------------|--------------|-----|-----|------|
+|Autumn|Helpful|Naive|Topaz|Yellow|Acid|
+|Spring|Energetic|Indulgent|Emerald|Green|Lightning|
+|Summer|Strong|Overwhelming|Ruby|Red|Fire|
+|Winter|Resilient|Apathetic|Sapphire|Blue|Cold|
+|Time|Wise|Nihilistic|Opal|Iridescent|Necrotic|
 
 > ## Autumn
 >
 >> ### 1: Topaz Whelpling
 >> You become resistant to acid damage and you can add your Charisma modifier to the damage of any spell you cast that deals acid damage. 
 >
->> ### 1: Acidic Spray
+>> ### 1: Dissolving Spray
 >> If you are hit by a melee attack and the attacker is within 5 feet, the attacker takes acid damage equal to your proficiency bonus.
 >
->> ### 6: Helping Hand
->> You can stabilize an unconscious creature as a bonus action and your healing spells gain a bonus to their healing equal to your proficiency bonus.
+>> ### 6: Acidic Claws
+>> You learn the [Primal Savagery](http://dnd5e.wikidot.com/spell:primal-savagery) cantrip, but the damage die increases to a d12.
 > 
 >> ### 10: Personality Surge
 >> When you make an Medicine or Persuasion check, you can choose to do so at advantage. You can use this ability a number of times equal to your proficiency bonus. You regain all uses when you complete a short or long rest.
@@ -126,8 +126,8 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >> ### 1: Intravenous Conduit
 >> If you are hit by a melee attack and the attacker is within 5 feet, the attacker takes lightning damage equal to your proficiency bonus.
 >
->> ### 6: Unveiling Light
->> As an action, you can produce bioluminecent light from your body. You shed bright light in a 10-foot radius and dim light for an additional 10 feet. Invisible creatures and objects are revealed when in this light.
+>> ### 6: Energetic Lash
+>> You learn the [Lightning Lure](http://dnd5e.wikidot.com/spell:lightning-lure) cantrip, but the range is increased to 30 feet and the target has disadvantage on the Strength saving throw.
 > 
 >> ### 10: Personality Surge
 >> When you make an Acrobatics or Performance check, you can choose to do so at advantage. You can use this ability a number of times equal to your proficiency bonus. You regain all uses when you complete a short or long rest.
@@ -145,8 +145,8 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >> ### 1: Boiling Blood
 >>If you are hit by a melee attack and the attacker is within 5 feet, the attacker takes fire damage equal to your proficiency bonus.
 >
->> ### 6: Larger Than Life
->> You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift and you have advantage on saving throws against affects that would cause you to be moved against your will.
+>> ### 6: Scorch & Torch
+>> You learn the [Produce Flame](http://dnd5e.wikidot.com/spell:produce-flame) cantrip, but the range of the attack is increased to 60 feet and the flame sheds bright light for 20 feet and dim light for an additional 20 feet.
 > 
 >> ### 10: Personality Surge
 >> When you make an Athletics or Intimidation check, you can choose to do so at advantage. You can use this ability a number of times equal to your proficiency bonus. You regain all uses when you complete a short or long rest.
@@ -165,7 +165,7 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >> If you are hit by a melee attack and the attacker is within 5 feet, the attacker takes cold damage equal to your proficiency bonus.
 >
 >> ### 6: Frigid Soul
->> As an action, you can freeze a 5-foot cube of water that you touch. Over the course of 10 minutes you can shape and work an area of ice equal to five times your proficiency bonus.
+>> You learn the [Ray of Frost](http://dnd5e.wikidot.com/spell:ray-of-frost) cantrip, but the speed reduction is increased to 20 feet.
 > 
 >> ### 10: Personality Surge
 >> When you make an Nature or Survival check, you can choose to do so at advantage. You can use this ability a number of times equal to your proficiency bonus. You regain all uses when you complete a short or long rest.
@@ -183,10 +183,8 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >> ### 1: Malignant Spatter
 >> If you are hit by a melee attack and the attacker is within 5 feet, the attacker takes necrotic damage equal to your proficiency bonus.
 >
->> ### 6: Preternatural Foresight
->> When you finish a long rest, roll a d20 and record the number rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
->>
->> Your portent roll can only be used once. When you finish a long rest, you lose any unused portent rolls.
+>> ### 6: Gift of Time
+>> You learn the [Spare the Dying](http://dnd5e.wikidot.com/spell:spare-the-dying) cantrip, but can use it as a bonus action with a range of 30 feet.
 > 
 >> ### 10: Personality Surge
 >> When you make an History or Insight check, you can choose to do so at advantage. You can use this ability a number of times equal to your proficiency bonus. You regain all uses when you complete a short or long rest.
@@ -219,17 +217,11 @@ You learn to control your magical shapeshifting ability enabling you to shift in
 > The damage of your tail increases to 2d8 at 11th level. The range of your tail increases to 15 feet at 11th level and 20 feet at 17th level.
 
 ## Dragon Breath
-You learn to use one of the most noteable draconc abilities, Dragon Breath. As an action, you release a breath of primal energy in the shape listed in the Essence table. Each creature in the area must making a Dexterity saving throw against your spell save DC. On a success, the creature takes a number of dice of damage equal to your proficiency bonus. On a failure, the creature takes half as much. The damage type of your Dragon Breath is your Essence damage type, and the size of the damage dice can be seen in the Breath Die column of the Dragon Aspect table.
+You learn to use one of the most noteable draconc abilities, Dragon Breath. As an action, you release a breath of primal energy in a line with a length in feet equal to 20 times your proficiency bonus, and a width in feet equal to 5 times half your proficiency bonus (rounded down). The length is halved in humanoid form. Each creature in the area must making a Dexterity saving throw against your spell save DC. On a failure, the creature takes a number of dice of damage equal to your proficiency bonus. On a success, the creature takes half as much. The damage type of your Dragon Breath is your Essence damage type, and the size of the damage dice can be seen in the Breath Die column of the Dragon Aspect table.
 
 Once you use this ability, you can't use it again until it recharges. At the start of your turn, roll a D6. On a roll of 5 or 6, your Dragon Breath recharges. At 20th level, your Dragon Breath recharges on a roll of 4 or higher.
 
 You can increase the damage of your Dragon Breath by expending a spell slot as part of the same action. You increase the number of damage dice for Dragon Breath by one plus the level of the spell slot expended.
-
-> ## Cone
-> Your breath, as a cone, has a length in feet equal to 10 times your proficiency bonus, and half as far in humanoid form.
-
-> ## Line
-> You breath, as a line, has a length in feet equal to 20 times your proficiency bonus, and a width in feet equal to 5 times half your proficiency bonus (rounded down). The length is halved in humanoid form.
 
 ## Aspect Transformation Improvements
 The ability and trait improvements below provide bonuses during Aspect Transformation at the listed levels.
