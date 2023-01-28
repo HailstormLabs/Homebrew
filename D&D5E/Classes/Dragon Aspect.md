@@ -235,7 +235,7 @@ The ability and trait improvements below provide bonuses during Aspect Transform
 > At 5th level, you gain a flying speed of 30 feet. This speed increases to 60 feet at 9th level, 90 feet at 13th level, and 120 feet at 17th level.
 
 > ## Senses
-> At 5th level, you gain 120 feet of darkvision . If you already have darkvision from another source, increase it by 60 feet. Your senses continue to hone themselves as you gain 30 feet of blindsight at 9th level.
+> At 5th level, you gain 120 feet of darkvision . If you already have darkvision from another source, increase it by 60 feet instead. Your senses continue to hone themselves as you gain 30 feet of blindsight at 9th level.
 
 > ## Wing Attack
 > Starting at 13th level, as an action, you beat your wings fervently. Each creature within 10 feet of the you must succeed on a Dexterity saving throw against your spell save DC or take 2d8 bludgeoning damage and be knocked prone.
