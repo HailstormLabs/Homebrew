@@ -7,26 +7,26 @@ You can make a Dragon Aspect quickly by following these suggestions. First, Char
 # The Dragon Aspect Table
 >| Level | PB | Class Features | Aspect Size | Breath Die | Cantrips | Spells | Spell Slots | Slot Level |
 >|-------|----|----------------|-------------|------------|----------|--------|-------------|------------|
->|1|2|Draconic Magic, Essence|Medium|-|4|1|2|1|
->|2|2|Aspect Transformation|Medium|-|4|2|2|1|
->|3|2|Dragon Breath|Medium|d8|4|3|2|2|
->|4|2|Ability Score Improvement|Medium|d8|4|4|2|2|
->|5|3|Transformation Improvement|Large|d8|5|5|3|3|
->|6|3|Essence Feature|Large|d8|5|6|3|3|
->|7|3|Innate Magic|Large|d8|5|7|3|4|
->|8|3|Ability Score Improvement|Large|d8|5|8|3|4|
->|9|4|Transformation Improvement|Large|d10|6|9|4|5|
->|10|4|Essence Feature|Large|d10|6|10|4|5|
->|11|4|Elemental Potency|Huge|d10|6|11|4|5|
->|12|4|Ability Score Improvement|Huge|d10|6|12|4|5|
->|13|5|Transformation Improvement|Huge|d10|7|13|5|5|
->|14|5|Essence Feature|Huge|d10|7|14|5|5|
->|15|5|Draconic Immunity|Huge|d12|7|15|5|5|
->|16|5|Ability Score Improvement|Huge|d12|7|16|5|5|
->|17|6|Transformation Improvement|Gargantuan|d12|8|17|6|5|
->|18|6|Essence Feature|Gargantuan|d12|8|18|6|5|
->|19|6|Ability Score Improvement|Gargantuan|d12|8|19|6|5|
->|20|6|Force of Nature|Colossal|d20|8|20|6|5|
+>|1|2|Draconic Magic, Essence|Medium|-|3|1|2|1|
+>|2|2|Aspect Transformation|Medium|-|3|2|2|1|
+>|3|2|Dragon Breath|Medium|d6|3|3|2|2|
+>|4|2|Ability Score Improvement|Medium|d6|3|4|2|2|
+>|5|3|Transformation Improvement|Large|d8|4|5|3|3|
+>|6|3|Essence Feature|Large|d8|4|6|3|3|
+>|7|3|Innate Magic|Large|d8|4|7|3|4|
+>|8|3|Ability Score Improvement|Large|d8|4|8|3|4|
+>|9|4|Transformation Improvement|Large|d10|5|9|4|5|
+>|10|4|Essence Feature|Large|d10|5|10|4|5|
+>|11|4|Elemental Potency|Huge|d10|5|11|4|5|
+>|12|4|Ability Score Improvement|Huge|d10|5|12|4|5|
+>|13|5|Transformation Improvement|Huge|d12|6|13|5|5|
+>|14|5|Essence Feature|Huge|d12|6|14|5|5|
+>|15|5|Draconic Immunity|Huge|d12|6|15|5|5|
+>|16|5|Ability Score Improvement|Huge|d12|6|16|5|5|
+>|17|6|Transformation Improvement|Gargantuan|d20|7|17|6|5|
+>|18|6|Essence Feature|Gargantuan|d20|7|18|6|5|
+>|19|6|Ability Score Improvement|Gargantuan|d20|7|19|6|5|
+>|20|6|Force of Nature|Colossal|d20|7|20|6|5|
 
 # Class Features
 
@@ -102,12 +102,10 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 > ## Autumn
 >
 >> ### 1: Topaz Whelpling
->> You become resistant to acid damage and you can add your proficiency bonus to the damage of any spell you cast that deals acid damage. 
->>
->> Additionally, if you are hit by a melee attack and the attacker is within 5 feet, the attacker takes acid damage equal to your proficiency bonus.
+>> You become resistant to acid damage and you can add your Charisma modifier to the damage of any spell you cast that deals acid damage. 
 >
->> ### 1: Aura of Breeze
->> You exude a 10 foot aura that grant you and your allies immunity to effects that would reduce your speed. The aura increases to 20 feet at 11th level and again to 30 feet at 20th level.
+>> ### 1: Acidic Spray
+>> If you are hit by a melee attack and the attacker is within 5 feet, the attacker takes acid damage equal to your proficiency bonus.
 >
 >> ### 6: Helping Hand
 >> You can stabilize an unconscious creature as a bonus action and your healing spells gain a bonus to their healing equal to your proficiency bonus.
@@ -123,12 +121,10 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 > ## Spring
 >
 >> ### 1: Emerald Whelpling
->> You become resistant to lightning damage and you can add your proficiency bonus to the damage of any spell you cast that deals lightning damage. 
->> 
->> Additionally, if you are hit by a melee attack and the attacker is within 5 feet, the attacker takes lightning damage equal to your proficiency bonus.
+>> You become resistant to lightning damage and you can add your Charisma modifier to the damage of any spell you cast that deals lightning damage. 
 >
->> ### 1: Aura of Energy
->> You exude a 10 foot aura that grant you and your allies immunity to effects that would put you to sleep. The aura increases to 20 feet at 11th level and again to 30 feet at 20th level.
+>> ### 1: Intravenous Conduit
+>> If you are hit by a melee attack and the attacker is within 5 feet, the attacker takes lightning damage equal to your proficiency bonus.
 >
 >> ### 6: Unveiling Light
 >> As an action, you can produce bioluminecent light from your body. You shed bright light in a 10-foot radius and dim light for an additional 10 feet. Invisible creatures and objects are revealed when in this light.
@@ -144,12 +140,10 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 > ## Summer
 >
 >> ### 1: Ruby Whelpling
->> You become resistant to fire damage and you can add your proficiency bonus to the damage of any spell you cast that deals fire damage. 
->>
->> Additionally, if you are hit by a melee attack and the attacker is within 5 feet, the attacker takes fire damage equal to your proficiency bonus.
+>> You become resistant to fire damage and you can add your Charisma modifier to the damage of any spell you cast that deals fire damage. 
 >
->> ### 1: Aura of Warmth
->> You exude a 10 foot aura that grant you and your allies immunity to the effects of extreme cold. The aura increases to 20 feet at 11th level and again to 30 feet at 20th level.
+>> ### 1: Boiling Blood
+>>If you are hit by a melee attack and the attacker is within 5 feet, the attacker takes fire damage equal to your proficiency bonus.
 >
 >> ### 6: Larger Than Life
 >> You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift and you have advantage on saving throws against affects that would cause you to be moved against your will.
@@ -165,12 +159,10 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 > ## Winter
 >
 >> ### 1: Sapphire Whelpling
->> You become resistant to cold damage and you can add your proficiency bonus to the damage of any spell you cast that deals cold damage. 
->>
->> Additionally, if you are hit by a melee attack and the attacker is within 5 feet, the attacker takes cold damage equal to your proficiency bonus.
+>> You become resistant to cold damage and you can add your Charisma modifier to the damage of any spell you cast that deals cold damage.
 >
->> ### 1: Aura of Cold
->> You exude a 10 foot aura that grant you and your allies immunity to the effects of extreme heat. The aura increases to 20 feet at 11th level and again to 30 feet at 20th level.
+>> ### 1: Glacial Fragmentation
+>> If you are hit by a melee attack and the attacker is within 5 feet, the attacker takes cold damage equal to your proficiency bonus.
 >
 >> ### 6: Frigid Soul
 >> As an action, you can freeze a 5-foot cube of water that you touch. Over the course of 10 minutes you can shape and work an area of ice equal to five times your proficiency bonus.
@@ -186,12 +178,10 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 > ## Time
 >
 >> ### 1: Opal Whelpling
->> You become resistant to necrotic damage and you can add your proficiency bonus to the damage of any spell you cast that deals necrotic damage. 
->>
->> Additionally, if you are hit by a melee attack and the attacker is within 5 feet, the attacker takes necrotic damage equal to your proficiency bonus.
+>> You become resistant to necrotic damage and you can add your Charisma modifier to the damage of any spell you cast that deals necrotic damage.
 >
->> ### 1: Aura of Awareness
->> You exude a 10 foot aura that grant you and your allies immunity to being surprised. The aura increases to 20 feet at 11th level and again to 30 feet at 20th level.
+>> ### 1: Malignant Spatter
+>> If you are hit by a melee attack and the attacker is within 5 feet, the attacker takes necrotic damage equal to your proficiency bonus.
 >
 >> ### 6: Preternatural Foresight
 >> When you finish a long rest, roll a d20 and record the number rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
