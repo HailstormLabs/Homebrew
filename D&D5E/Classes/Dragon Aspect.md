@@ -242,18 +242,18 @@ You can increase the damage of your Dragon Breath by expending a spell slot as p
 > You breath, as a line, has a length in feet equal to 20 times your proficiency bonus, and a width in feet equal to 5 times half your proficiency bonus (rounded down). The length is halved in humanoid form.
 
 ## Aspect Transformation Improvements
-Your Aspect Transformation trait and ability improvements are listed below along with their levels and statistical changes.
+The ability and trait improvements below provide bonuses during Aspect Transformation at the listed levels.
 
 > ## Combat Improvements
-> At 5th level, you can make two attacks instead of one when you take the Attack action during Aspect Transformation. 
+> At 5th level, you can make two attacks instead of one when you take the Attack action. 
 >
 > Your attacks with natural weapons gain a +1 bonus to attack and damage rolls at 5th level, and the bonus increases further to +2 at 11th level, and +3 at 17th level.
 
 > ## Flying
-> At 5th level, you gain a flying speed of 30 feet during Aspect Transformation. This speed increases to 60 feet at 9th level, 90 feet at 13th level, and 120 feet at 17th level.
+> At 5th level, you gain a flying speed of 30 feet. This speed increases to 60 feet at 9th level, 90 feet at 13th level, and 120 feet at 17th level.
 
 > ## Senses
-> At 5th level, you gain 120 feet of darkvision. If you already have darkvision from another source, increase it by 60 feet. Your senses continue to hone themselves as you gain 30 feet of blindsight at 9th level.
+> At 5th level, you gain 120 feet of darkvision . If you already have darkvision from another source, increase it by 60 feet. Your senses continue to hone themselves as you gain 30 feet of blindsight at 9th level.
 
 > ## Wing Attack
 > Starting at 13th level, as an action, you beat your wings fervently. Each creature within 10 feet of the you must succeed on a Dexterity saving throw against your spell save DC or take 2d8 bludgeoning damage and be knocked prone.
