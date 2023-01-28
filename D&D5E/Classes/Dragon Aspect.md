@@ -223,6 +223,11 @@ Once you use this ability, you can't use it again until it recharges. At the sta
 
 You can increase the damage of your Dragon Breath by expending a spell slot as part of the same action. You increase the number of damage dice for Dragon Breath by one plus the level of the spell slot expended.
 
+## Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+
+Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.
+
 ## Aspect Transformation Improvements
 The ability and trait improvements below provide bonuses during Aspect Transformation at the listed levels.
 
@@ -242,11 +247,6 @@ The ability and trait improvements below provide bonuses during Aspect Transform
 
 > ## Frightful Presense
 > Starting at 17th level, as an action, you release an thunderous roar. Each creature of the your choice that is within 120 feet of you and aware of your presence must succeed on a Wisdom saving throw against your spell save DC or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the your Frightful Presence for the next 24 hours.
-
-## Ability Score Improvement
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
-
-Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.
 
 ## Innate Magic
 The natural magic running through your veins seeps into everything you do. Your natural weapon attacks during Aspect Transformation count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
