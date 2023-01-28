@@ -26,7 +26,7 @@ You can make a Dragon Aspect quickly by following these suggestions. First, Char
 >|17|6|Transformation Improvement|Gargantuan|d12|8|17|6|5|
 >|18|6|Essence Feature|Gargantuan|d12|8|18|6|5|
 >|19|6|Ability Score Improvement|Gargantuan|d12|8|19|6|5|
->|20|6|Force of Nature|Colossal|d20|10|20|6|5|
+>|20|6|Force of Nature|Colossal|d20|8|20|6|5|
 
 # Class Features
 
