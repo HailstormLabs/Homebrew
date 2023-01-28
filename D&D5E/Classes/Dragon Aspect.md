@@ -267,7 +267,7 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.
 
 ## Innate Magic
-The natural magic running through your veins seeps into everything you do. You can add your Charisma modifier to the damage rolls of your cantrips, and your natural weapon attacks during Aspect Transformation count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+The natural magic running through your veins seeps into everything you do. Your natural weapon attacks during Aspect Transformation count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 ## Elemental Potency
 Your spells and abilities that deal your Essence damage type ignore resistance and treat immunity as resistance.
