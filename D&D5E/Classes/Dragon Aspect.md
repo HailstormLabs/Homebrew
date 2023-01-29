@@ -89,7 +89,7 @@ You can use an arcane focus (see the [Adventuring Gear](https://www.dndbeyond.co
 ## Essence
 You pick an Essence from Autumn, Spring, Summer, Winter, or Time. Along with suggesting some personality traits, your Essense determines the color of your dragon scales, the color of your luminescent eyes in humanoid form, your Essence damage type, and various other features you will gain as you level up as a Dragon Aspect. 
 
-As part of selecting your Essence, your creature type changes to *Dragon (Shapeshifter)* and you learn to speak, read, and write Draconic.
+As part of selecting your Essence, your creature type becomes both Humanoid and Dragon . You learn to speak, read, and write Draconic.
 
 |Essence|Positive Trait|Negative Trait|Scales|Eyes|Damage|
 |-------|--------------|--------------|-----|-----|------|
