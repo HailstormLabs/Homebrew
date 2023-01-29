@@ -104,10 +104,10 @@ As part of selecting your Essence, your creature type changes to *Dragon (Shapes
 >> ### 1: Topaz Whelpling
 >> You become resistant to acid damage and you can add your Charisma modifier to the damage of any spell you cast that deals acid damage. 
 >
->> ### 1: Dissolving Spray
+>> ### 1: Acidic Spray
 >> If you are hit by a melee attack and the attacker is within 5 feet, the attacker takes acid damage equal to your proficiency bonus.
 >
->> ### 6: Acidic Claws
+>> ### 6: Corrosive Claws
 >> You learn the [Primal Savagery](http://dnd5e.wikidot.com/spell:primal-savagery) cantrip, but the damage die increases to a d12.
 > 
 >> ### 10: Personality Surge
