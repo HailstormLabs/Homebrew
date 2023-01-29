@@ -40,7 +40,7 @@ You can make a Dragon Aspect quickly by following these suggestions. First, Char
 
 ## Proficiencies
 
-**Armor**: Light Armor, Medium Armor, Shields
+**Armor**: Light Armor, Medium Armor
 
 **Weapons**: Simple Weapons
 
@@ -53,7 +53,6 @@ You can make a Dragon Aspect quickly by following these suggestions. First, Char
 ## Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 
-- (a) a shield or (b) any simple weapon
 - (a) a quarterstaff or (b) any simple weapon
 - (a) leather armor or (b) scale mail
 - an explorer's pack, a dagger, and an arcane focus
