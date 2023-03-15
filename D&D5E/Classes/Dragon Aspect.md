@@ -220,7 +220,7 @@ You learn to use one of the most noteable draconc abilities, Dragon Breath. As a
 
 Once you use this ability, you can't use it again until it recharges. At the start of your turn, roll a D6. On a roll of 5 or 6, your Dragon Breath recharges. At 20th level, your Dragon Breath recharges on a roll of 4 or higher.
 
-You can increase the damage of your Dragon Breath by expending a spell slot as part of the same action. You increase the number of damage dice for Dragon Breath by one plus the level of the spell slot expended.
+You can increase the damage of your Dragon Breath by expending a spell slot as part of the same action. You increase the number of damage dice for Dragon Breath by the level of the spell slot expended.
 
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
