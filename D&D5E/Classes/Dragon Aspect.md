@@ -216,7 +216,7 @@ You learn to control your magical shapeshifting ability enabling you to shift in
 > The damage of your tail increases to 2d8 at 11th level. The range of your tail increases to 15 feet at 11th level and 20 feet at 17th level.
 
 ## Dragon Breath
-You learn to use one of the most noteable draconc abilities, Dragon Breath. As an action, you release a breath of primal energy in a cone with a length in feet equal to 10 times your proficiency bonus. The length is halved in humanoid form. Each creature in the area must making a Dexterity saving throw against your spell save DC. On a failure, the creature takes a number of dice of damage equal to your proficiency bonus. On a success, the creature takes half as much. The damage type of your Dragon Breath is your Essence damage type, and the size of the damage dice can be seen in the Breath Die column of the Dragon Aspect table.
+You learn to use one of the most noteable draconic abilities, Dragon Breath. As an action, you release a breath of primal energy in a cone with a length in feet equal to 10 times your proficiency bonus. The length is halved in humanoid form. Each creature in the area must making a Dexterity saving throw against your spell save DC. On a failure, the creature takes a number of dice of damage equal to your proficiency bonus. On a success, the creature takes half as much. The damage type of your Dragon Breath is your Essence damage type, and the size of the damage dice can be seen in the Breath Die column of the Dragon Aspect table.
 
 Once you use this ability, you can't use it again until it recharges. At the start of your turn, roll a D6. On a roll of 5 or 6, your Dragon Breath recharges. At 20th level, your Dragon Breath recharges on a roll of 4 or higher.
 
